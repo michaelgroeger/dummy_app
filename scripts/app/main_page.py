@@ -17,7 +17,7 @@ show_pages(
 )
 # Display title in app
 st.title(
-    "Welcome to the awesome gaming recommendation app, we are setting everything up for your visit"
+    "Some title"
 )
 
 st.text(f"Some random number {return_some_number()}")
