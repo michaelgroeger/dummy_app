@@ -1,5 +1,5 @@
 import streamlit as st
-from helpers.return_random_number import return_some_number
+from .helpers.return_random_number import return_some_number
 
 # Set page title
 st.set_page_config(
