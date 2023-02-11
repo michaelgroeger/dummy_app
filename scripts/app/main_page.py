@@ -11,8 +11,8 @@ st.set_page_config(
 show_pages(
     [
         Page("main_page.py", "Hello"),
-        Page("pages/page_2.py", "Next"),
-        Page("pages/page_3.py", "Final"),
+        Page("scripts/app/pages/page_2.pyy", "Next"),
+        Page("scripts/app/pages/page_3.py", "Final"),
     ]
 )
 # Display title in app
